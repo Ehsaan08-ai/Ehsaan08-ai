@@ -11,8 +11,6 @@
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repos:
-https://github.com/Ehsaan08-ai/market-data-pipeline/tree/main
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ehsaan08-ai&icon=0&color=0)](https://visitcount.itsvg.in)
